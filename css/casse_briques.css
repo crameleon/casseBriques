@@ -1,0 +1,6 @@
+body {background: #282828; font-family: Helvetica, Arial, sans-serif; font-size: 1em;}
+#container {width: 400px; height: 300px; margin-left: auto; margin-right: auto; border: 5px solid #aaa;}
+#titre {background: url(../img/briques_titre.png) no-repeat; width: 570px; height: 144px; margin-left: auto; margin-right: auto;}
+#canvasTerrain, #canvasJeu, #canvasVictoire { position: absolute;}
+#aide {font-variant: small-caps; color: #888; text-align: center;}
+#aide  strong {color: #fff; font-weight: normal; font-size: 0.8em;}
